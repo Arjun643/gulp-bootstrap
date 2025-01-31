@@ -1,9 +1,12 @@
 {
-  "name": "healthy-life",
+  "name": "gulp-bootstrap",
   "version": "1.0.0",
-  "description": "",
+  "description": "A health and wellness website built with Bootstrap and Sass",
   "main": "index.js",
   "scripts": {
+    "start": "gulp",
+    "build": "gulp build",
+    "watch": "gulp watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
